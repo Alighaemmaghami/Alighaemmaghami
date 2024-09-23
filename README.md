@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ali Ghaemmaghami</h1>
-<h3 align="center">A passionate machine learning developer from Canada</h3>
+<h3 align="center">A passionate data analyst from Canada</h3>
 
 
 <img align="right" alt="Ali Ghaemmaghami Coding Gif" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
